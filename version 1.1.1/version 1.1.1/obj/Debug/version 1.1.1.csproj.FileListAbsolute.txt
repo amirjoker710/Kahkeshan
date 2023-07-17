@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\bin\Debug\version 1.1.1.exe.config
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\bin\Debug\version 1.1.1.exe
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\bin\Debug\version 1.1.1.pdb
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version_1._1._1.Form1.resources
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version_1._1._1.Properties.Resources.resources
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.exe
+C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.pdb
