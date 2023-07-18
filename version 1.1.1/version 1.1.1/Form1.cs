@@ -16,5 +16,10 @@ namespace version_1._1._1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox3.Text = "123";
+        }
     }
 }

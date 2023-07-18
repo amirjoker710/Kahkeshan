@@ -8,3 +8,14 @@ C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.
 C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.exe
 C:\Users\Asus\Desktop\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.pdb
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\bin\Debug\version 1.1.1.exe.config
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\bin\Debug\version 1.1.1.exe
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\bin\Debug\version 1.1.1.pdb
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.csproj.AssemblyReference.cache
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version_1._1._1.Form1.resources
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version_1._1._1.Properties.Resources.resources
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.csproj.GenerateResource.cache
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.csproj.CoreCompileInputs.cache
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.exe
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.pdb
