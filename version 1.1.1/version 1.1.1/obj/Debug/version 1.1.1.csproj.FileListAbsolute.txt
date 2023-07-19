@@ -19,3 +19,5 @@ C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\
 C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.csproj.CoreCompileInputs.cache
 C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.exe
 C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version 1.1.1.pdb
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version_1._1._1.Forms.AddPoolTable.resources
+C:\Users\amirm\Documents\GitHub\Kahkeshan\version 1.1.1\version 1.1.1\obj\Debug\version_1._1._1.Forms.Login.resources
