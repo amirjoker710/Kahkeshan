@@ -19,7 +19,10 @@ namespace version_1._1._1.Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            AddPoolTable a = new AddPoolTable();
+            a.Visible = true;
+            this.Visible = false;
+            
         }
     }
 }

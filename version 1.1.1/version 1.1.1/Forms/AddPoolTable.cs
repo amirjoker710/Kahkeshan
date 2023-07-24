@@ -36,5 +36,12 @@ namespace version_1._1._1.Forms
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 a = new Form1();
+            a.Visible = true;
+            this.Visible = false;
+        }
     }
 }
